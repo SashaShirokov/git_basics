@@ -12,3 +12,4 @@ def sel(arr):
 
 print(sel([8, 3, 1, 29, 0, 5]))
 print(sel([38, 29, 10, 301, 0, 9, 7]))
+print(sel([8, 3, 1, 9]))
